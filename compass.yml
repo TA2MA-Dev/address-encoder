@@ -1,0 +1,16 @@
+name: address-encoder
+id: ari:cloud:compass:06b1f601-7439-4e2a-afac-fed0c1d5a3dc:component/20fdc381-286b-4e23-8a2a-e628d96bb4e4/d0b4ea38-e499-4168-a849-d116684adde1
+description: https://github.com/Ta2ma/Dev.Chain
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/TA2MA-Dev/address-encoder
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
